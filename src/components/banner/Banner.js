@@ -111,7 +111,7 @@ const Banner = () => {
   return (
     <section
       className="relative bg-cover bg-center bg-no-repeat"
-      style={{ backgroundImage: "url('/images/banner.jpg')" }}
+      style={{ backgroundImage: "url('/images/Spondylytis-Banner.jpg')" }}
     >
       {/* Overlay for better text readability */}
       <div className="absolute inset-0 bg-black opacity-50"></div>
