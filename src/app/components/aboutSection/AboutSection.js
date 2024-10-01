@@ -21,8 +21,8 @@ const AboutSection = () => {
 
         {/* Image Section */}
         <div className="w-full lg:w-1/2 relative h-64 sm:h-80 md:h-96 lg:h-auto">
-          <Image
-            src="/images/about.jpg" // Ensure this image exists in public/images/
+          <img
+            src="/images/about.webp" // Ensure this image exists in public/images/
             alt="About Dr. Care Homeopathy"
             layout="fill"
             objectFit="cover"
